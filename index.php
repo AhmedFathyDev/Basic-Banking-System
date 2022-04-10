@@ -1,6 +1,6 @@
 <?php include('nav.php'); ?>
 
-    <h1>Welcome to Sparks Bank</h1>
+    <h1>Welcome to The Sparks Foundation Basic Banking System</h1>
 
     <div class="bg">
         <div class="center">

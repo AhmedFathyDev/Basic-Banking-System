@@ -2,7 +2,7 @@
     $server = "localhost";
     $user_name = "root";
     $password = "";
-    $database = "Basic_Banking_System";
+    $database = "The_Sparks_Foundation_Basic_Banking_System";
 
     $conn = mysqli_connect($server, $user_name, $password, $database);
 

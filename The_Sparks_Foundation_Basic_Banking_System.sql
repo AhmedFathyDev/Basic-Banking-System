@@ -1,7 +1,7 @@
 
-CREATE DATABASE `Basic_Banking_System`;
+CREATE DATABASE `The_Sparks_Foundation_Basic_Banking_System`;
 
-USE `Basic_Banking_System`;
+USE `The_Sparks_Foundation_Basic_Banking_System`;
 
 CREATE TABLE `Transaction` (
     `Id` INT PRIMARY KEY AUTO_INCREMENT,
