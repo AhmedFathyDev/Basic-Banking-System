@@ -136,16 +136,9 @@ a{
 a #container {
     min-height:100%;
     position:relative;
- }
- /*
- #footer {
-    background-color:black;
-    padding:10px;
-    color: aliceblue;
-    height: auto;
- }*/
+}
 
- #container #header{
+#container #header{
     background-color:#1e272e;
     color: white;
     text-align: center;
@@ -153,4 +146,4 @@ a #container {
     margin-bottom: 0 !important;
     border: 0 !important;
     margin-bottom: 5px;
- }
+}

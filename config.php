@@ -1,17 +1,12 @@
 <?php 
+    $server = "localhost";
+    $user_name = "root";
+    $password = "";
+    $database = "Basic_Banking_System";
 
-$server="localhost";
-$username="root";
-$password="";
-$db="sparks_bank";
+    $conn = mysqli_connect($server, $user_name, $password, $database);
 
-$conn=mysqli_connect($server,$username,$password,$db);
-
-if($conn){
-  //Connection successfully established
-}
-
-else
-    die("connection to this database failed due to " .mysqli_connect_error()); //connection not establised
-    
+    if (!$conn) {
+        die("Connection to this database failed due to ".mysqli_connect_error());
+    }
 ?>
