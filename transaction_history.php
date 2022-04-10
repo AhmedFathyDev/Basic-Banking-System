@@ -1,7 +1,7 @@
 <?php include('nav.php'); ?>
 
 	<div class="container">
-        <h2 class="text-center pt-4">Transaction History</h2>
+        <h1>Transaction History</h1>
         
         <br>
         
